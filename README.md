@@ -1,0 +1,2 @@
+# Leetcode
+Optimal algorithm solutions
